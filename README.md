@@ -70,7 +70,5 @@ context-path: 部署路径
 #### 5、启动项目
 执行文件`RuoYi-Oracle/ruoyi-admin/src/main/java/com/ruoyi/RuoYiApplication.java`的main函数即可。
 
-## 文档
-[佛丁丁官方文档](http://doc.ruoyi.vip) http://doc.ruoyi.vip
 
 </div>
